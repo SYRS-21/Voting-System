@@ -1,0 +1,16 @@
+.poll-image {
+  width: 250px;
+  max-height: 180px;
+
+  img {
+    height: 180px;
+    width: inherit;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+}
+.card {
+  height: 280px;
+  width: 250px;
+}
